@@ -1,0 +1,10 @@
+id = "firefly"
+name = "FireFly"
+description = "A pure colorful dark theme that glows in the night, inspired by fireflies. Three dark variants: FireFly Pro, FireFly Pro Dark+, FireFly Pro Midnight. Ported from the VS Code theme by Ankit Mishra."
+version = "0.1.0"
+schema_version = 1
+authors = [
+    "Ankit Mishra <ankitmlive@gmail.com> (original VS Code theme)",
+    "Julien Cornebise <julien.cornebise@gmail.com> (Zed port)",
+]
+repository = "https://github.com/jucor/firefly-theme-zed"
