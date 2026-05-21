@@ -26,6 +26,32 @@
  * Fully optimized for eyes, Tested more than 6 hours in night with no eye burn.
  * A Theme that motivates you to code at night.
 
+## Zed port
+
+This repository also ships a [Zed](https://zed.dev) theme extension with the
+same three dark variants:
+
+ * **FireFly Pro**
+ * **FireFly Pro Dark+**
+ * **FireFly Pro Midnight**
+
+### Installing in Zed
+
+#### As a dev extension (local install)
+
+1. Clone this repository.
+2. In Zed, open the command palette (`cmd-shift-p` / `ctrl-shift-p`) and run
+   **`zed: install dev extension`**.
+3. Select the root of this repository (the folder containing `extension.toml`).
+4. Open the command palette and run **`theme selector: toggle`**, then pick one
+   of the three FireFly variants.
+
+#### Layout
+
+ * `extension.toml` — Zed extension manifest.
+ * `themes/firefly.json` — Zed theme file containing all three variants.
+ * `vscode/` — original VS Code theme source (kept for reference).
+
 ## Firefly Pro Demo (New) 🎉🎉🎉🎉🎉🎉
 
 <div align="center">
